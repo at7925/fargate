@@ -12,3 +12,7 @@ service:
   port: 80
   pathPatterns:
     - /*
+
+extensions:
+- url: https://github.com/stelligent/mu-cfn_nag/archive/v0.3.zip
+- url: application
